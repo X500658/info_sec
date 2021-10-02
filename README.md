@@ -1,2 +1,5 @@
 # info_sec
-CS 3106 with Sir Ean
+Clyde Vincent Pilapil
+CS 3106
+
+
